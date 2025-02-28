@@ -1,0 +1,43 @@
+# http- # Ioneuroscience Modeling and Analysis Toolkit
+
+This repository provides a collection of tools, scripts, and data related to the computational modeling and analysis of ion channel dynamics in neuroscience. It is designed to facilitate research and development in areas such as:
+
+* **Ion Channel Modeling:**
+    * Implementation of mathematical models describing the kinetics and properties of various ion channels.
+    * Simulation of ion channel behavior under different physiological conditions.
+    * Tools for parameter fitting and model optimization.
+* **Electrophysiological Data Analysis:**
+    * Scripts for processing and analyzing electrophysiological recordings (e.g., patch-clamp data).
+    * Methods for extracting relevant features and parameters from experimental data.
+    * Tools for data visualization and statistical analysis.
+* **Neural Simulation:**
+    * Integration of ion channel models into larger-scale neural simulations.
+    * Development of network models to investigate the role of ion channels in neural circuits.
+    * Tools to analyze the output of complex neural simulations.
+
+**Key Features:**
+
+* Modular and extensible code base.
+* Well-documented functions and scripts.
+* Example datasets and tutorials.
+* Support for various simulation and analysis platforms.
+* Integration with HTTP based tools for data transfer and remote computational control (via the http-my-projet instance).
+
+**Getting Started:**
+
+1.  Clone the repository: `git clone [repository URL]`
+2.  Install the necessary dependencies (see `requirements.txt`).
+3.  Explore the example scripts and tutorials in the `examples` directory.
+4.  Refer to the documentation for detailed information on each tool.
+
+**Contributing:**
+
+We welcome contributions from the community. Please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute.
+
+**License:**
+
+This project is licensed under the [License Name] license. See `LICENSE` for more information.
+
+**Contact:**
+
+For questions or support, please open an issue or contact [your email address].
